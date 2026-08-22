@@ -19,7 +19,7 @@ Two computers were connected directly and configured with IP addresses in the sa
 
  Test Performed
 
-A ping test was performed from PC1 to PC2 using:
+A ping test was performed from PC1 to PC2 using
 
 ```bash
 ping 192.168.1.20
